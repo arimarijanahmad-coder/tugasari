@@ -12,7 +12,7 @@
         }
         header {
             text-align: center;
-            padding: 20px;
+            padding: 10px;
             background: rgba(0,0,0,0.4);
             animation: fadeIn 2s;
         }
@@ -25,7 +25,7 @@
         .card {
             background: rgba(255,255,255,0.1);
             padding: 10px;
-            margin: 15px 0;
+            margin: 10px 0;
             border-radius: 10px;
             animation: slideUp 1s;
         }
@@ -48,7 +48,7 @@
             text-align: left;
         }
         ul {
-            margin-left: 20px;
+            margin-left: 10px;
         }
 
         /* Animasi */
