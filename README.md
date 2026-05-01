@@ -24,13 +24,13 @@
         }
         .card {
             background: rgba(255,255,255,0.1);
-            padding: 15px;
+            padding: 10px;
             margin: 15px 0;
             border-radius: 10px;
             animation: slideUp 1s;
         }
         table {
-            width: 100%;
+            width: 50%;
             border-collapse: collapse;
             margin-top: 10px;
             background: white;
